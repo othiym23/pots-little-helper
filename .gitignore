@@ -1,0 +1,11 @@
+.DS_Store
+\.*.swp
+*.pyc
+*.log
+*~
+#*
+.#*
+*.tmproj
+node_modules
+config/config.json
+!.gitignore

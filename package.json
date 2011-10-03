@@ -1,0 +1,17 @@
+{
+    "name": "pots-little-helper",
+    "description": "A shopping list generator for Glitch players",
+    "version": "0.0.0",
+    "homepage": "https://github.com/othiym23/pots-little-helper",
+    "directories": {
+        "lib": "./lib"
+    },
+    "engines": {
+        "node": ">=0.4.6  <=0.4.99999"
+    },
+    "dependencies": {
+        "oauth"  : ">=0.9.5",
+        "strata" : "=0.5.13",
+        "haml"   : ">=0.4.2"
+    }
+}
